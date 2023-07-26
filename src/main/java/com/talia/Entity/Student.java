@@ -12,7 +12,7 @@ public class Student {
         this.course = course;
     }
 
-    public Student(){};
+    public Student(){}
 
     public String getCourse() {
         return course;

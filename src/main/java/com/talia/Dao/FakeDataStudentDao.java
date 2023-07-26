@@ -26,17 +26,17 @@ public class FakeDataStudentDao implements StudentDao {
     @Override
     public Collection<Student> getAllStudents(){
 
-        return this.students.values();
+        return students.values();
     }
 
     @Override
     public Student getStudentById(int id){
-        return this.students.get(id);
+        return students.get(id);
     }
 
     @Override
     public void removeStudentById(int id) {
-        this.students.remove(id);
+        students.remove(id);
     }
 
     @Override
@@ -49,6 +49,6 @@ public class FakeDataStudentDao implements StudentDao {
 
     @Override
     public void insertStudent(Student student) {
-        this.students.put(student.getId(), student);
+        students.put(student.getId(), student);
     }
 }
