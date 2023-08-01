@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4eaa69-3a9f-4c3c-b4d7-c837b590b4f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Dao/FakeDataStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Dao/mongoStudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/talia/Service/StudentService.java" afterDir="false" />
+    <list default="true" id="ad4eaa69-3a9f-4c3c-b4d7-c837b590b4f0" name="Changes" comment="updated warnings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/talia/Entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/talia/Entity/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +45,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;dfd9f031655f2bd98edffd7db1328c29&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -103,10 +91,36 @@
       <workItem from="1689968823775" duration="3752000" />
       <workItem from="1690236773578" duration="11927000" />
       <workItem from="1690400643754" duration="808000" />
+      <workItem from="1690401807477" duration="2642000" />
+      <workItem from="1690496410444" duration="785000" />
+      <workItem from="1690497781158" duration="449000" />
+      <workItem from="1690606974078" duration="969000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1690402005771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690402005771</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated warnings">
+      <option name="closed" value="true" />
+      <created>1690402562502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690402562502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="updated warnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated warnings" />
   </component>
 </project>

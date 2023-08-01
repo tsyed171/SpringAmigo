@@ -26,9 +26,14 @@
 
     </dependency>
     -->
+
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
     </dependency>
   </dependencies>
 //make sure it is 17 , 1.8 does not work for now

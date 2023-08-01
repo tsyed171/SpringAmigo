@@ -16,19 +16,19 @@ public class StudentService {
     private StudentDao studentDao;
 
     public Collection<Student> getAllStudents(){
-        return this.studentDao.getAllStudents();
+        return studentDao.getAllStudents();
     }
 
     public Student getStudentById(int id){
-        return this.studentDao.getStudentById(id);
+        return studentDao.getStudentById(id);
     }
 
     public void removeStudentById(int id) {
-        this.studentDao.removeStudentById(id);
+        studentDao.removeStudentById(id);
     }
 
     public void updateStudent(Student student){
-        this.studentDao.updateStudent(student);
+        studentDao.updateStudent(student);
     }
 
     public void insertStudent(Student student) {
